@@ -1,4 +1,11 @@
-# Chat With CSV
+# Chat With Your CSV 
+
+
+**Requirements**
+- pip
+- python3
+- llamaindex
+
 
 It is recommended to create and activate virtual environment:
 ```
@@ -15,3 +22,12 @@ $ . .venv/Scripts/activate
 ```
 $ pip install -r requirements.txt
 ```
+
+**Usage**
+
+Run the below command in the terminal.
+
+```
+$ streamlit run app.py
+```
+
