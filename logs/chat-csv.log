@@ -1,0 +1,11 @@
+[2024-03-16 12:47:56,351] [INFO] - File uploaded successfully.
+[2024-03-16 12:47:56,352] [INFO] - Initializing query engine
+[2024-03-16 12:47:56,457] [INFO] - Getting prompts
+[2024-03-16 12:47:56,458] [INFO] - Model LLM set to gpt-3.5-turbo
+[2024-03-16 12:47:56,459] [INFO] - Initiazing chat.
+[2024-03-16 12:48:04,620] [INFO] - File uploaded successfully.
+[2024-03-16 12:48:04,621] [INFO] - Initializing query engine
+[2024-03-16 12:48:04,626] [INFO] - Getting prompts
+[2024-03-16 12:48:04,627] [INFO] - Model LLM set to gpt-3.5-turbo
+[2024-03-16 12:48:04,628] [INFO] - Initiazing chat.
+[2024-03-16 12:48:04,628] [INFO] - Generating Response.
